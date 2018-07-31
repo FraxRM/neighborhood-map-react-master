@@ -1,6 +1,6 @@
 ﻿# Neighborhood Map - React Project
 
->This project is part of the Udacity Front-End Web Development Nanodegree (https://img.shields.io/badge/Udacity-React-02b3e4.svg)
+>This project is part of the Udacity Front-End Web Development Nanodegree. [click](https://classroom.udacity.com/nanodegrees/nd001/parts/c3e7b0d6-ffef-4421-b5fc-6df10fd0a1ae/modules/undefined/lessons/501ef38b-2d2f-4426-b32a-01d5aebf5e74/project)
 
 This project it's intended as a challenge to put together a website from various APIs and dependencies. This includes making function that calls to Google Maps and other location based services like Foursquare.
 
