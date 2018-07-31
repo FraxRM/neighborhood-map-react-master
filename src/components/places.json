@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Titanic Pub",
+    "type": "Pub",
+    "latitude": 41.939001,
+    "longitude": 12.528904
+  },
+  {
+    "name": "Casanova Live Music",
+    "type": "Restaurant",
+    "latitude": 41.940502,
+    "longitude": 12.527797
+  },
+  {
+    "name": "C1B0",
+    "type": "Restaurant",
+    "latitude": 41.935482,
+    "longitude": 12.533736
+  },
+  {
+    "name": "Ponte Tazio 1923",
+    "type": "Pub",
+    "latitude": 41.935194,
+    "longitude": 12.534272
+  },
+  {
+    "name": "The Butcher Shop",
+    "type": "Restaurant",
+    "latitude": 41.935447,
+    "longitude": 12.536318
+  },
+  {
+    "name": "IL LOCALE",
+    "type": "Bistrot",
+    "latitude": 41.938283,
+    "longitude": 12.534694
+  }
+]
