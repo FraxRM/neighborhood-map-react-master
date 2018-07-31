@@ -16,9 +16,9 @@ The app allows you to filter the list down as you type. In return, it displays t
 
 ## Installing & Run It
 
-Follow these steps:
-
 This project uses the [Create-React-App](https://github.com/facebookincubator/create-react-app) starter code.
+
+Follow these steps:
 
 1. Install node from the following link: https://nodejs.org/en/
 2. Clone the repository to your computer;
