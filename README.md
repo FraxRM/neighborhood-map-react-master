@@ -8,11 +8,6 @@ On the left there will be a short list of filters that was meaningful places in 
 
 The app allows you to filter the list down as you type. In return, it displays the locations on the map with a marker that it is dynamic.
 
-## Features
-
-1. Click on any marker to see the location details fetched from the [FourSquare APIs](https://developer.foursquare.com/).
-2. Search through availaible locations.
-3. Get information on locations from the search or through marker click
 
 ## Installing & Run It
 
@@ -26,6 +21,12 @@ Follow these steps:
 4. Launch the app with this command `npm start`
 
 The app will launch in your browser at the address[http://localhost:3000/](http://localhost:3000/).
+
+## Features
+
+1. Click on any marker to see the location details fetched from the [FourSquare APIs](https://developer.foursquare.com/).
+2. Search through availaible locations.
+3. Get information on locations from the filters or through marker click.
 
 ## NPM Build
 
