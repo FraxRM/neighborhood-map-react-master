@@ -147,7 +147,7 @@ class App extends Component {
           if (location_data.contact.phone)
             contact = `<p><small>${location_data.contact.phone}</small></p>`;
           var checkinsCount =
-            "<b>Number of Check-In: </b>" +
+            "<b>How many times you went here: </b>" +
             location_data.stats.checkinsCount +
             "<br>";
           var readMore =
