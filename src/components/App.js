@@ -91,6 +91,10 @@ class App extends Component {
     });
   }
 
+   mapError() {
+    alert("Google Map error.");
+}
+
   /**
    * Open the infowindow for the marker
    * @param {object} location marker
@@ -203,6 +207,7 @@ export default App;
  * Load the google maps
  * @param {src} url of the google maps script
  */
+
 function loadMapJS(src) {
   var ref = window.document.getElementsByTagName("script")[0];
   var script = window.document.createElement("script");
